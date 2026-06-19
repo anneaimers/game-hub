@@ -1,6 +1,6 @@
 # 🎮 Game Hub
 
-Bem-vindo ao Game Hub! Este é um espaço centralizado que reúne 3 minijogos divertidos e desafiadores em um único lugar. O projeto conta com um menu interativo e suporte para **2 jogadores (Multiplayer Local)** se divertirem juntos!
+Bem-vindo ao Game Hub! Este é um espaço centralizado que reúne 3 minijogos divertidos e desafiadores em um único lugar.
 
 ---
 
